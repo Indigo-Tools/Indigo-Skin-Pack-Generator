@@ -1,2 +1,2 @@
 # Pepes-Skin-Pack-Generator
-https://pepeongithub.github.io/Pepes-Skin-Pack-Generator/
+https://indigo-tools.github.io/Skin-Pack-Generator/
